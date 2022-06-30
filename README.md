@@ -8,7 +8,13 @@ Patika Linkim : https://app.patika.dev/okkes
 
   
 
-<img src="C:\Users\kazic\OneDrive\Masaüstü\Ekran Görüntüsü (960).png" alt="Ekran Görüntüsü (960)" style="zoom:75%;" />
+  <img src="README.assets/Ekran Görüntüsü (960)-16565920057962.png" alt="Ekran Görüntüsü (960)" style="zoom:67%;" />
+
+  
+
+
+
+
 
 
 
