@@ -6,10 +6,12 @@ Patika Linkim : https://app.patika.dev/okkes
 
 * 
 
+  <img src="README.assets/Ekran Görüntüsü (960).png" alt="Ekran Görüntüsü (960)" style="zoom:67%;" />
+
   
 
-  <img src="README.assets/Ekran Görüntüsü (960)-16565920057962.png" alt="Ekran Görüntüsü (960)" style="zoom:67%;" />
-
+  
+  
   
 
 
