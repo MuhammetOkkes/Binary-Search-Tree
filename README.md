@@ -4,23 +4,11 @@ Patika Linkim : https://app.patika.dev/okkes
 
 * **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]** dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-  ​                                                      7
+* 
 
-  ​                                                  /        \
+  
 
-  ​                                              5              8
+<img src="C:\Users\kazic\OneDrive\Masaüstü\Ekran Görüntüsü (960).png" alt="Ekran Görüntüsü (960)" style="zoom:75%;" />
 
-  ​                                          /       \                \
 
-  ​                                      1            6                9 
-
-  ​                                  /       \
-
-  ​                              0             3
-
-  ​                                          /       \
-
-  ​                                       2            4
-
-    
 
